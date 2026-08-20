@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  A global tech jobs aggregator powered by GitHub issues.
+  Tech jobs shared through public GitHub communities.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/openings-dev/openings" />
-  <img src="https://img.shields.io/github/license/openings-dev/openings" />
-  <img src="https://img.shields.io/github/contributors/openings-dev/openings" />
+  <img src="https://img.shields.io/github/stars/openings-dev/web" />
+  <img src="https://img.shields.io/github/license/openings-dev/web" />
+  <img src="https://img.shields.io/github/contributors/openings-dev/web" />
 </p>
 
 ---
 
-Thousands of tech jobs are posted every week as GitHub issues across community repositories like `backend-br/vagas`, `portugal-dev/vagas` and `angoladev/vagas`. These openings never reach traditional job boards. **openings.dev** surfaces them all in one place.
+Public tech job listings are often scattered across GitHub community repositories. **openings.dev** brings supported communities into one searchable experience and links every job back to its original public source.
